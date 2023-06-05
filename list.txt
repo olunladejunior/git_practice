@@ -5,7 +5,7 @@ strawberries
 apples
 
 MEAT
-
+beef
 
 
 DAIRY
