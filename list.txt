@@ -12,6 +12,11 @@ bacon
 
 
 DAIRY
+milk
+eggs
+yoghourt
+butter
+cheese
 
 
 PET
